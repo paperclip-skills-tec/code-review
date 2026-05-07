@@ -42,3 +42,7 @@ A markdown review summary containing:
 ```
 /code-review PR #42 for TEC-74
 ```
+
+---
+
+*TEC Custom Skill — maintained by the Deltek Technical Services Engineering team.*
